@@ -47,7 +47,7 @@ class _State extends State<PageHome> {
                   bottom: BorderSide(width: 0, color: Color(0xFF000000)),
                 ),
               ),
-              child: Column(                                                      --!! "class missing"  !!--
+              child: Column(                                                     
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
